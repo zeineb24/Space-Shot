@@ -1,6 +1,6 @@
-Find all information about the project in this ReadMe FILE. 
+Find all information about the project in this BUILD FILE. 
 
-# Flying plane SDL2 animation
+# Space Shot SDL2 animation
 
 This project is written in C and uses [CMake][] as a build system.<br>
 It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
