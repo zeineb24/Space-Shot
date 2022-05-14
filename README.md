@@ -2,7 +2,7 @@
 
 
 
-![Image of Crazy Taxi Project](assets/logo.png)
+![Image of Space Shot Project](assets/Screenshot (27).png)
 
 
 
