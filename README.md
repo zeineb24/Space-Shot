@@ -1,3 +1,5 @@
+Find all information about the project in this ReadMe FILE. 
+
 # Flying plane SDL2 animation
 
 This project is written in C and uses [CMake][] as a build system.<br>
@@ -58,6 +60,7 @@ make
 instructions in the CMakeLists.txt file and re-execute the `make` command.
 
 ### Open the project with an IDE under Linux
+
 
 See [IDE_USAGE.md](IDE_USAGE.md) for details.
 
