@@ -50,6 +50,15 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 
 > See [BUILD.md](BUILD.md)
 
+## Authors / Contributors
+
+The project was originally developed by:
+
+- [Amine Ben Hassouna](https://github.com/aminosbh)
+- Zeineb Dridi 
+- Mohamed Amine Karoui 
+- Eya Chafter
+
 
 
 ## 📝 License
