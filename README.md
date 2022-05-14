@@ -55,9 +55,9 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 The project was originally developed by:
 
 - [Amine Ben Hassouna](https://github.com/aminosbh)
-- [Zeineb Dridi] (https://github.com/zeineb24)
-- [Mohamed Amine Karoui] (https://github.com/MAKaroui)
-- [Eya Chafter] (https://github.com/eya26)
+- [Zeineb Dridi](https://github.com/zeineb24)
+- [Mohamed Amine Karoui](https://github.com/MAKaroui)
+- [Eya Chafter](https://github.com/eya26)
 
 
 
