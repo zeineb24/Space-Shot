@@ -2,7 +2,7 @@
 
 
 
-![Image of Space Shot Project](assets/Screenshot (27).png)
+![Image of Space Shot Project](https://github.com/zeineb24/Space-Shot/blob/master/assets/Screenshot%20(27).png)
 
 
 
@@ -18,9 +18,7 @@ Go play it and put a ⭐️ if you appreciated it!
 
 
 
-## ▶️ Demo
-Here you can find the demo link:
--[Demo](CMakeFiles/demo_xUuneOQ0.mp4)
+
 
 
 
@@ -55,6 +53,7 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 
 
 ## 📝 License
+[MIT](https://github.com/zeineb24/Space-Shot/blob/master/LICENSE)
 
 
 
